@@ -1,0 +1,11 @@
+.vs/
+Database Triggers/
+Import Schema Logs/
+MyDB.dbmdl
+MyDB.jfm
+MyDB.sln
+MyDB.sqlproj
+MyDB.sqlproj.user
+MyDB_Compare_Server_with_Local.scmp
+bin/
+obj/
