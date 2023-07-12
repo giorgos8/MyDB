@@ -1,3 +1,4 @@
-﻿create proc test
+﻿CREATE proc [dbo].[test]
 as
+	print '***'
 	print '***'
